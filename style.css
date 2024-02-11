@@ -1,0 +1,88 @@
+.first{
+    background-color: rgb(18, 85, 141);
+    display:flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width:100%;
+    height:128px;
+    font-size: xx-large;
+    color: white;
+    margin-top: 0%;
+}
+.second{
+    background-color: rgb(49, 132, 188);
+    color: white;
+    margin-top: 0%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#popcorn{
+    width: 140px;
+    height: 120px;
+}
+#wheel{
+    width:150px;
+    height:150px;
+}
+#speaker{
+    width:160px;
+    height:180px;
+}
+#shot{
+    width:160px;
+    height:140px;
+}
+#glasses{
+    width:120px;
+    height: auto;
+    margin-right: 40px;
+    margin-bottom: 30px;
+}
+#glass{
+    width:60px;
+    height:120px;
+}
+.third{
+    background-color: white;
+    color:  rgb(49, 132, 188);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    height: 520px;
+}
+#photo{
+    width: 420px;
+    height: 500px;
+}
+.fourth{
+    background-color:  rgb(60, 136, 186);
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+#view{
+    width:65px;
+    height: 25px;
+    border-radius: 13px;
+    background-color: white;
+    color:  rgb(49, 132, 188);
+    
+
+}
+#movies{
+    width: 300px;
+    height: 400px;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    color: rgb(49, 132, 188) ;
+}
+#members{
+    width: 350px;
+    height: 250px;
+    margin-top: 40px;
+}
